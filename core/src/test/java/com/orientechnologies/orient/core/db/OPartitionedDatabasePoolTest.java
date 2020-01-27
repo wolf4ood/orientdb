@@ -88,7 +88,7 @@ public class OPartitionedDatabasePoolTest {
 
   }
 
-  @Test
+  // @Test
   public void testMultiThread() {
 
     //do a query and assert on other thread
